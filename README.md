@@ -1,3 +1,4 @@
 # PufferPanel-AppleSilicon
  Binary version
- Usage: ./Startup
+# Usage
+ Command: ./Startup
