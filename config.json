@@ -1,0 +1,21 @@
+{
+  "logs": "./log",
+  "panel": {
+    "database": {
+      "dialect": "sqlite3",
+      "url": "file:./database.db?cache=shared"
+    },
+    "web": {
+      "files": "./pufferpanel"
+    }
+  },
+  "token": {
+    "private": "./private.pem"
+  },
+  "daemon": {
+    "data": {
+      "cache": "./cache",
+      "servers": "./servers"
+    }
+  }
+}
