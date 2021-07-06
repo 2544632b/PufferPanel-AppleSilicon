@@ -1,0 +1,2 @@
+# PufferPanel-AppleSilicon
+ Binary version
