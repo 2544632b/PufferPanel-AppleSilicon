@@ -1,4 +1,4 @@
 # PufferPanel-AppleSilicon
- Binary version
+ I'm ssssssssssssssssssssso sorry I have no source because of device broken.
 # Usage
- Command: ./Startup
+ Open your terminal and enter "./Startup" (Press Control+C to complete it)
